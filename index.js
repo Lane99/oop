@@ -1,7 +1,7 @@
 let person = {
   name: {
-    first: 'Milan',
-    last: 'Vukadin',
+    first: 'Petar',
+    last: 'Petrovic',
   },
   age: 34,
   bio() {
